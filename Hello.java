@@ -3,13 +3,10 @@ public class Hello {
         system.out.printIn("vscode is Awesome");
         display();
     }
-    public static int sqr(int x){
-        return x * x;
-    }
-
+   
 
       
-      public static void display(){
-        System.out.println("Hello Hello");
+      public static void message(){
+        System.out.println("Hooray !! Now we are able to contribute");
       }
 }
