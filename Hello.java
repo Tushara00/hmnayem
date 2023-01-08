@@ -1,13 +1,15 @@
 public class Hello {
     public static void main (string[] args){
         system.out.printIn("vscode is Awesome");
-        greetings ("git");
-    }
-    public static void greetings (string name){
-        system.out.printIn("bye bye" + name);
+        display();
     }
     public static int sqr(int x){
         return x * x;
     }
-}
 
+
+      
+      public static void display(){
+        System.out.println("Hello Hello");
+      }
+}
