@@ -1,8 +1,10 @@
 public class Hello {
     public static void main (string[] args){
         system.out.printIn("vscode is Awesome");
-        greetings ("git");
+        display();
     }
-    public static void greetings (string name){
-        system.out.printIn("bye bye" + name);
-    }
+      
+      public static void display(){
+        System.out.println("Hello Hello");
+      }
+}
