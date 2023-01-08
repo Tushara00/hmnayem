@@ -6,4 +6,3 @@ public class Hello {
     public static void greetings (string name){
         system.out.printIn("bye bye" + name);
     }
-}
